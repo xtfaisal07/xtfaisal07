@@ -74,7 +74,7 @@ Welcome to my GitHub profile! I'm a passionate and driven Computer Science stude
 
 ## 🌐 Connect with Me
 
-- 📧 [xtfaisal07@gmail.com](mailto:xtfaisal07@gmail.com)
+- 📧[Gmail](mailto:xtfaisal07@gmail.com)
 - [LinkedIn](https://linkedin.com/in/xtfaisal07)
 - [GitHub](https://github.com/xtfaisal07)
 
